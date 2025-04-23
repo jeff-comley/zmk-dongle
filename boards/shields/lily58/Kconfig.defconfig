@@ -19,7 +19,7 @@ if ZMK_DISPLAY
 config I2C
     default y
 
-config SSD1306
+config SH1106
     default y
 
 if SHIELD_LILY58_DONGLE_XIAO || SHIELD_LILY58_DONGLE_PRO_MICRO
