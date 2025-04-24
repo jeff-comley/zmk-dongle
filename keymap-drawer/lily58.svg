@@ -232,8 +232,8 @@ rect.held, rect.combo.held {
   visibility: hidden;
 }
 </style>
-<g transform="translate(40, 0)" class="layer-Bas">
-<text x="0" y="28" class="label" id="Bas">Bas:</text>
+<g transform="translate(40, 0)" class="layer-BASE">
+<text x="0" y="28" class="label" id="BASE">BASE:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -445,8 +445,8 @@ rect.held, rect.combo.held {
 </g>
 <g transform="translate(280, 266)" class="key keypos-52">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<a href="#Low">
-<text x="0" y="0" class="key tap layer-activator">Low</text>
+<a href="#LOWER">
+<text x="0" y="0" class="key tap layer-activator">LOWER</text>
 </a></g>
 <g transform="translate(350, 266) rotate(30.0)" class="key keypos-53">
 <rect rx="6" ry="6" x="-26" y="-40" width="52" height="80" class="key"/>
@@ -458,8 +458,8 @@ rect.held, rect.combo.held {
 </g>
 <g transform="translate(644, 266)" class="key keypos-55">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<a href="#Rai">
-<text x="0" y="0" class="key tap layer-activator">Rai</text>
+<a href="#RAISE">
+<text x="0" y="0" class="key tap layer-activator">RAISE</text>
 </a></g>
 <g transform="translate(700, 260)" class="key keypos-56">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -471,8 +471,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 372)" class="layer-Low">
-<text x="0" y="28" class="label" id="Low">Low:</text>
+<g transform="translate(40, 372)" class="layer-LOWER">
+<text x="0" y="28" class="label" id="LOWER">LOWER:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -723,8 +723,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 745)" class="layer-Rai">
-<text x="0" y="28" class="label" id="Rai">Rai:</text>
+<g transform="translate(40, 745)" class="layer-RAISE">
+<text x="0" y="28" class="label" id="RAISE">RAISE:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key trans keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
