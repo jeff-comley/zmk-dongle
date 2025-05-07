@@ -60,13 +60,13 @@ include:
 
   - board: nice_nano_v2
     shield: lily58_right
-    cmake-args: -DCONFIG_ZMK_SLEEP=y -DCONFIG_ZMK_IDLE_TIMEOUT=60000
+    cmake-args: -DCONFIG_ZMK_SLEEP=y -DCONFIG_ZMK_IDLE_TIMEOUT=6000000
     artifact-name: nice_lily58_right
 
   # peripheral_left
   - board: nice_nano_v2
     shield: lily58_left_peripheral
-    cmake-args: -DCONFIG_ZMK_SLEEP=y -DCONFIG_ZMK_IDLE_TIMEOUT=60000
+    cmake-args: -DCONFIG_ZMK_SLEEP=y -DCONFIG_ZMK_IDLE_TIMEOUT=6000000
     artifact-name: nice_lily58_left_peripheral
 
   # Xiao_Dongle
